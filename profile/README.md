@@ -1,8 +1,11 @@
-![willbe-horizontal](https://user-images.githubusercontent.com/5970578/178163673-65b6cab3-85cd-4d93-aa7d-cb47fc0a6a90.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5970578/178163673-65b6cab3-85cd-4d93-aa7d-cb47fc0a6a90.png" />
+</p>
 
-### Hey 👋 we are [willbe collective](https://willbe.co) and this is our repo.
-
-This repo will grow in the next few weeks, for now its and empty sandbox.
+<h3 align="center">
+  Hey 👋 we are <a href="https://willbe.co">willbe collective</a> and this is our repo.
+</h3>
+<br/><br/>
 
 <!--
 
