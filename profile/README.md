@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey! 👋
+
+We are [willbe collective](https://willbe.co) and this is our public repo.
 
 <!--
 
